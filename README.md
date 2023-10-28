@@ -15,6 +15,7 @@
        
 
 3.  Deploying the EKS Cluster using Jenkins Pipeline
+   
     ![WhatsApp Image 2023-10-28 at 16 38 40_38af4358](https://github.com/monk8081/terraform-jenkis-eks/assets/113243067/abe587bf-0fe3-4a76-ab68-eedb5007c2d3)
 
     ![WhatsApp Image 2023-10-28 at 16 42 19_23a7d869](https://github.com/monk8081/terraform-jenkis-eks/assets/113243067/b5c93644-a848-4829-8459-234777e01515)
